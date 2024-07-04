@@ -38,6 +38,7 @@
 
 #include "rta_util.h"
 #include <stdlib.h>
+#include <stdio.h>
 #ifdef WIN32
 static long random(){return rand();}
 #endif
